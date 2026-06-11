@@ -10,7 +10,8 @@ Dashboard Preview
 
 
 
-Add dashboard screenshot in GitHub: screenshots/dashboard\_overview.png
+<img width="1600" height="1200" alt="4  Dashboard_Superstore" src="https://github.com/user-attachments/assets/96a9609e-5f0b-4f77-889e-edde6618688e" />
+
 
 
 
