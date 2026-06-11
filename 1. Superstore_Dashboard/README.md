@@ -6,7 +6,7 @@ An interactive Tableau dashboard uncovering why high sales do not always transla
 
 
 
-Dashboard Preview
+**Dashboard Preview:**
 
 
 
@@ -15,7 +15,7 @@ Dashboard Preview
 
 
 
-Key Findings
+**Key Findings:**
 
 •	Discounts are reducing profitability: Orders with 0% discount generated approximately +29.5% profit margin, while 30%+ discount orders resulted in negative margins (\~ -16.5%).
 
@@ -25,7 +25,7 @@ Key Findings
 
 
 
-Tools \& Skills Used
+**Tools \& Skills Used:**
 
 •	Tableau Dashboard Design
 
@@ -59,7 +59,7 @@ Tools \& Skills Used
 
 
 
-**Dataset Description**
+**Dataset Description:**
 
 Dataset Source: Sample Superstore Dataset
 
